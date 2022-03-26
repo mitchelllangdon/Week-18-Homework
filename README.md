@@ -24,7 +24,7 @@ Using Streamlit, an interactive reporting capability could be produced to store 
 
 ---
 
-## Instructions How to use this tool
+## Instructions: how to use this tool
 
  1. Clone the repository to your local machine
  2. Navigate (in the terminal) run the streamlit application by typing `streamlit run python.py`
