@@ -27,7 +27,7 @@ Using Streamlit, an interactive reporting capability could be produced to store 
 ## Instructions: how to use this tool
 
  1. Clone the repository to your local machine
- 2. Navigate (in the terminal) run the streamlit application by typing `streamlit run python.py`
+ 2. Navigate (in the terminal) run the streamlit application by typing `streamlit run pychain.py`
  3. Utilise the tool and its interactive features by inputting data into the 'Sender', 'Receiver' and 'Amount' text boxes located within the tool. 
  4. Proceed to click 'Add block'
  5. Validate the chain by clicking 'Validate Chain'
